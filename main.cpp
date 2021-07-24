@@ -5,5 +5,6 @@ int main(){
 	std::cout << "Wow quelle belle 2eme ligne" << std::endl;
 	std::cout << "Fin du fichier" << std::endl;
 	std::cout << "Yes" << std::endl;
+
 	return 0;
 }
